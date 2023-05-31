@@ -1,0 +1,5 @@
+curl -H “Authorization: Bearer 0 / 1/1200270327319678:7a3c48012ee8fe45953f7404512092e7” https://app.asana.com/api/1.0/tasks?"workspace=xxxxxxxxxxxxxx&project=xxxxxxxxxxxxxxxx 25 "
+
+
+
+
